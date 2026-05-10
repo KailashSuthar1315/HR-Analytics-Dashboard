@@ -7,6 +7,17 @@ This project is an interactive HR Analytics Dashboard created using Tableau. The
 - Tableau
 - Excel
 
+## Key KPIs
+- Employee Count
+- Attrition Rate
+- Average Salary
+- Department-wise Analysis
+
+## Key Insights
+- Highest attrition observed in Sales department
+- Employees aged 25–34 showed higher turnover
+- Average salary varied significantly across job roles
+
 ## Dashboard Features
 - Employee Attrition Analysis
 - Department-wise Performance
