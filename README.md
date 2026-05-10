@@ -1,4 +1,4 @@
-<img width="1032" height="570" alt="dashboard" src="https://github.com/user-attachments/assets/e773e147-eb37-4925-b519-474987573354" /># HR Analytics Dashboard
+ HR Analytics Dashboard
 
 ## Project Overview
 This project is an interactive HR Analytics Dashboard created using Tableau. The dashboard provides insights into employee attrition, workforce distribution, salary analysis, and department performance.
